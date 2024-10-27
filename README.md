@@ -14,4 +14,5 @@ write technical blogposts at [sedar.co](https://sedar.co), with supporting code
 open-sourced on my github [@jonsedar](https://github.com/jonsedar) or at my
 company Github [@oreum-industries](https://github.com/oreum-industries).
 
-Contact me at [LinkedIn](https://www.linkedin.com/in/jonsedar/).
+Contact me at [LinkedIn](https://www.linkedin.com/in/jonsedar/) or the 
+[`pymc` Discourse](https://discourse.pymc.io/u/jonsedar/summary)
